@@ -1,0 +1,94 @@
+body 
+{
+    background-attachment:fixed;
+    background-image:  url(jla.jpg);
+    background-size: 100% 100% ;
+    background-position: center center;
+    background-repeat: none;
+    color: white;
+}
+
+
+table
+{
+    width: 100%;
+    background-color : black;
+    color:white;
+}
+
+#nav
+{
+    width:1300px;
+    position:fixed;
+    border-collapse: collapse;
+    height: 40px;
+    background-color : black;
+    color: white;
+    padding : 10px 10px;
+    border-radius: 4px 4px 4px 4px;
+    margin: 0 5px 0 10px;
+}
+
+#aside
+{
+    margin-left: 78%;
+    width:20%;
+    text-align:center;
+    position: fixed;
+    background: rgba(0,0,0,0.5);
+}
+
+#section
+{
+    margin-right:25%;
+}
+
+
+
+td
+{
+    text-align:center;
+    font-weight:bold;
+}
+
+img
+{
+    width: 350px;
+}
+
+a 
+{
+  color: inherit;
+  text-decoration: inherit;
+}
+
+
+th:hover
+{
+    background-color : grey;
+}
+
+th
+{
+    transition:  background-color 0.5s; color 0.5s;
+    height:40px;
+}
+
+
+ul 
+{
+    list-style-type: none;
+    text-align: center;
+}
+
+h1
+{
+    font-family: Calibri;
+    font-size: 50px;
+}
+
+h2
+{
+    font-family: Calibri;
+    font-size:24px;
+}

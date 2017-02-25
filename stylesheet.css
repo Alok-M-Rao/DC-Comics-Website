@@ -1,0 +1,112 @@
+body 
+{
+     
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
+
+
+table
+{
+    width: 100%;
+}
+
+#nav
+{     
+       width:1300px;
+       position:fixed;
+       border-collapse: collapse;
+       height: 40px;
+       background-color : black;
+       color: white;
+       padding : 10px 10px ;
+       border-radius: 4px 4px 4px 4px;
+       margin: 0 5px 0 10px;                                 
+       
+}
+
+
+th:hover
+{
+     background-color : grey;
+}
+
+
+th
+{
+     height:40px;
+     transition: background-color 0.5s, color 0.5s;
+}
+       
+
+
+a
+{
+    color: inherit;
+    text-decoration: inherit;
+}
+            
+
+table
+{
+    border: 2.5px solid black;
+    background: background-color:rgba(0,0,0,0);
+    padding: 0px 0px;
+    border-radius:0px;
+}
+            
+  
+li
+{
+    font-family: Comic Sans MS;
+    color: #fff;
+    text-align: left;
+    font-size: 25px;
+    
+}
+
+
+h1 
+{
+    font-family: Calibri;
+    color:#fff;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+h2
+{
+    font-family: Calibri;
+    font-weight: bold;
+    text-align: center;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    font-size: 30px;
+}
+
+
+ul
+{
+    background: rgba(0,0,0,0.5);
+    width: 200px;
+}
+
+
+
+p
+{
+    text-align: justify;
+    font-family: Tahoma;
+    color:#fff;
+    background: rgba(0,0,0,0.5);
+   
+}
+
+video
+{
+    padding-top: 35px;  
+    width:75%;
+    height:65%;
+}
